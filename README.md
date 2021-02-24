@@ -24,7 +24,7 @@ Network Utility available in the Mac menu bar
 <div>&ensp;&ensp;&ensp;&ensp;ipconfig getoption en0 subnet_mask</div>
 <div>&ensp;&ensp;Firewall: Enabled/Disabled</div>
 <div>&ensp;&ensp;&ensp;&ensp;/Library/Preferences/com.apple.alf globalstate -int    (1 for enabled, 0 for disabled)</div>
-<div>nettop</div>
+<div>nettop (live updates)</div>
 <div>&ensp;&ensp;List all non-indented interfaces (not indented like whoami)</div>
 <div>&ensp;&ensp;&ensp;&ensp;Offer new list dropdown for each option</div>
 <div>Show arp table (arp -a)</div>
