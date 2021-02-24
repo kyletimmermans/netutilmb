@@ -9,8 +9,12 @@ Network Utility available in the Mac menu bar
 <div>Replace terminal commands with swift commands if possible</div>
 <div>See https://github.com/gjiazhe/Up-Down/blob/master/Up%26Down/NetWorkMonitor.swift to see how to pipe nettop data</div>
 <div>If not connected to internet, only show some data or write "No Internet"</div>
+
+### Pixel Perfect Icon
 <div>https://graphicdesign.stackexchange.com/questions/68615/how-to-save-small-png-files-icons-with-minimal-pixelation</div>
 <div>https://graphicdesign.stackexchange.com/questions/55598/how-do-i-set-a-photoshop-image-to-just-pure-black-and-white-no-grayscale</div>
+<div>https://icons8.com/articles/make-pixel-perfect-icons/</div>
+<div>https://www.youtube.com/watch?v=KYpVtDj-xQs</div>
 
 <br/>
 <br/>
