@@ -7,6 +7,7 @@ Network Utility available in the Mac menu bar
 ### Things to Consider
 <div>Show menu left to avoid collision with right half of computer</div>
 <div>Replace terminal commands with swift commands if possible</div>
+<div>See https://github.com/gjiazhe/Up-Down/blob/master/Up%26Down/NetWorkMonitor.swift to see how to pipe nettop data</div>
 
 <br/>
 <br/>
