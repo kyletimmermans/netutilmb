@@ -6,9 +6,11 @@ Network Utility available in the Mac menu bar
 
 ### Things to Consider
 <div>Show menu left to avoid collision with right half of computer</div>
+<div>Scroll nettops and arp if need be</div>
 <div>Replace terminal commands with swift commands if possible</div>
 <div>See https://github.com/gjiazhe/Up-Down/blob/master/Up%26Down/NetWorkMonitor.swift to see how to pipe nettop data</div>
 <div>If not connected to internet, only show some data or write "No Internet"</div>
+<div>Assign ASCII symbols as icon, see Up&Down</div>
 
 ### Pixel Perfect Icon
 <div>⇄  •</div>
@@ -33,7 +35,7 @@ Network Utility available in the Mac menu bar
 <div>&ensp;&ensp;&ensp;&ensp;/Library/Preferences/com.apple.alf globalstate -int    (1 for enabled, 0 for disabled)</div>
 <div>nettop (live updates)</div>
 <div>&ensp;&ensp;List all non-indented interfaces (not indented like whoami)</div>
-<div>&ensp;&ensp;&ensp;&ensp;Offer new list dropdown for each option</div>
+<div>&ensp;&ensp;&ensp;&ensp;Offer new list dropdown for each non-indented option with indented option</div>
 <div>Show arp table (arp -a)</div>
 <div>Add Proxy</div>
 <div>&ensp;&ensp;Pull up network proxy window or embed it</div>
