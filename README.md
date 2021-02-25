@@ -9,6 +9,8 @@ Network Utility available in the Mac menu bar
 <div>Scroll nettops and arp if need be</div>
 <div>Replace terminal commands with swift commands if possible</div>
 <div>See https://github.com/gjiazhe/Up-Down/blob/master/Up%26Down/NetWorkMonitor.swift to see how to pipe nettop data</div>
+<div>https://medium.com/@acwrightdesign/creating-a-macos-menu-bar-application-using-swiftui-54572a5d5f87</div>
+<div>&ensp;&ensp;-Also fixes two click problem</div>
 <div>If not connected to internet, only show some data or write "No Internet"</div>
 <div>Assign symbols as icon, see Up&Down</div>
 
@@ -40,6 +42,3 @@ Network Utility available in the Mac menu bar
 <div>Add Proxy</div>
 <div>&ensp;&ensp;Pull up network proxy window</div>
 <div>&ensp;&ensp;&ensp;&ensp;Close menu on open new proxy window/div>
-  
-
-  
