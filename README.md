@@ -7,6 +7,16 @@ Network Utility available in the Mac menu bar
 <div>Show menu left to avoid collision with right half of computer</div>
 <div>Scroll nettops and arp if need be</div>
 <div>Replace terminal commands with swift commands if possible</div>
+<div>If not connected to internet, only show some data or write "No Internet"</div>
+<div>Assign symbols as icon, see Up&Down, symbols: ⇄ ¤ ⊗ </div>
+<div>Needs proper logo for 16x16, 32x32, 128x128, etc</div>
+<div>Place into one .app file, zip up, and add to releases in Github</div>
+<div>Add screenshot of it in action, and make sure battery is fully charged then add to 'Projects' page on personal site and add to README</div>
+<div>If you want to make it in python: https://camillovisini.com/article/create-macos-menu-bar-app-pomodoro/</div>
+
+<br/>
+
+### Links
 <div>See https://github.com/gjiazhe/Up-Down/blob/master/Up%26Down/NetWorkMonitor.swift to see how to pipe nettop data</div>
 <div>https://8thlight.com/blog/casey-brant/2019/05/21/macos-menu-bar-extras.html</div>
 <div>&ensp;&ensp;-Make actual menu bar app, not popover</div>
@@ -16,13 +26,9 @@ Network Utility available in the Mac menu bar
 <div>&ensp;&ensp;-Sub menus code</div>
 <div>https://github.com/moimz/iCoinTicker</div>
 <div>&ensp;&ensp;-More sub menus code</div>
+<div>https://github.com/amiantos/pibar</div>
+<div>&ensp;&ensp;-For about popup window</div>
 <div>More ideas/code: https://awesomeopensource.com/projects/menubar</div>
-<div>If not connected to internet, only show some data or write "No Internet"</div>
-<div>Assign symbols as icon, see Up&Down, symbols: ⇄ ¤ ⊗ </div>
-<div>Needs proper logo for 16x16, 32x32, 128x128, etc</div>
-<div>Place into one .app file, zip up, and add to releases in Github</div>
-<div>Add screenshot of it in action, and make sure battery is fully charged then add to 'Projects' page on personal site and add to README</div>
-<div>If you want to make it in python: https://camillovisini.com/article/create-macos-menu-bar-app-pomodoro/</div>
 
 <br/>
 
