@@ -4,7 +4,7 @@ Network Utility available in the Mac menu bar
 <br/>
 
 ### Things to Consider
-<div>Show menu left to avoid collision with right half of computer</div>
+<div>Show menu left to avoid collision with right half of computer https://stackoverflow.com/questions/31250311/nsstatusitem-button-title-to-the-right-of-the-image</div>
 <div>Scroll nettops and arp if need be</div>
 <div>Replace terminal commands with swift commands if possible</div>
 <div>If not connected to internet, only show some data or write "No Internet"</div>
