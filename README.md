@@ -39,6 +39,7 @@ Network Utility available in the Mac menu bar
 <div>Show arp table (arp -a)</div>
 <div>Add Proxy</div>
 <div>&ensp;&ensp;Pull up network proxy window or embed it</div>
+
   
 
   
