@@ -14,6 +14,7 @@ Network Utility available in the Mac menu bar
 <div>&ensp;&ensp;-Also fixes two click problem and issue of app showing in doc</div>
 <div>If not connected to internet, only show some data or write "No Internet"</div>
 <div>Assign symbols as icon, see Up&Down, symbols: • ⇄ • </div>
+<div>Needs proper logo for 16x16, 32x32, 128x128, etc</div>
 <div>Place into one .app file, zip up, and add to releases in Github</div>
 <div>Add screenshot of it in action, and make sure battery is fully charged then add to 'Projects' page on personal site and add to README</div>
 
