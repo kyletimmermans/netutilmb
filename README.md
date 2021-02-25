@@ -14,6 +14,8 @@ Network Utility available in the Mac menu bar
 <div>&ensp;&ensp;-Also fixes two click problem and issue of app showing in doc</div>
 <div>https://github.com/codechimp-org/ha-menu</div>
 <div>&ensp;&ensp;-Sub menus code</div>
+<div>https://github.com/moimz/iCoinTicker</div>
+<div>&ensp;&ensp;-More sub menus code</div>
 <div>More ideas/code: https://awesomeopensource.com/projects/menubar</div>
 <div>If not connected to internet, only show some data or write "No Internet"</div>
 <div>Assign symbols as icon, see Up&Down, symbols: ⇄ ¤ ⊗ </div>
