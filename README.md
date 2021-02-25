@@ -38,8 +38,8 @@ Network Utility available in the Mac menu bar
 <div>&ensp;&ensp;&ensp;&ensp;Offer new list dropdown for each non-indented option with indented option</div>
 <div>Show arp table (arp -a)</div>
 <div>Add Proxy</div>
-<div>&ensp;&ensp;Pull up network proxy window or embed it</div>
-
+<div>&ensp;&ensp;Pull up network proxy window</div>
+<div>&ensp;&ensp;&ensp;&ensp;Close menu on open new proxy window/div>
   
 
   
