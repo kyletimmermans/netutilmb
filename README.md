@@ -2,7 +2,6 @@
 Network Utility available in the Mac menu bar
 
 <br/>
-<br/>
 
 ### Things to Consider
 <div>Show menu left to avoid collision with right half of computer</div>
@@ -14,12 +13,10 @@ Network Utility available in the Mac menu bar
 <div>https://medium.com/@acwrightdesign/creating-a-macos-menu-bar-application-using-swiftui-54572a5d5f87</div>
 <div>&ensp;&ensp;-Also fixes two click problem and issue of app showing in doc</div>
 <div>If not connected to internet, only show some data or write "No Internet"</div>
-<div>Assign symbols as icon, see Up&Down</div>
+<div>Assign symbols as icon, see Up&Down, symbols: • ⇄ • </div>
+<div>Place into one .app file, zip up, and add to releases in Github</div>
+<div>Add screenshot of it in action, and make sure battery is fully charged then add to 'Projects' page on personal site and add to README</div>
 
-### Pixel Perfect Icon
-<div>⇄  •</div>
-
-<br/>
 <br/>
 
 ### Menu (Non-indented options are in bold, rest is translucent and tabed over like Option+WiFi menu bar style
