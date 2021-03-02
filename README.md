@@ -57,4 +57,5 @@ Network Utility available in the Mac menu bar
 <div>&ensp;&ensp;&ensp;&ensp;Close menu on open new proxy window</div>
 <div>About</div>
 <div>&ensp;&ensp;Netutilmb stands for Network Utility Menu Bar and was created by Kyle Timmermans in Swift</div>
+<div>&ensp;&ensp;&ensp;&ensp;https://github.com/amiantos/pibar</div>
 <div>Quit netutilmb</div>
