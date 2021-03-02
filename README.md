@@ -1,6 +1,6 @@
 ![Version 1.0](https://img.shields.io/badge/version-v1.0-orange.svg)
 ![Swift 5](https://img.shields.io/badge/swift-5-ffff33.svg)
-![Platform macOS 10.11 or higher](https://img.shields.io/badge/platform-macOS-10.11-or-higher-9cf.svg)
+![Platform macOS 10.11 or higher](https://img.shields.io/badge/platform-macOS%2010.11%20or%20higher-9cf.svg)
 [![kyletimmermans Twitter](http://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Follow)](https://twitter.com/kyletimmermans)
 
 # netutilmb
