@@ -4,7 +4,7 @@
 [![kyletimmermans Twitter](http://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Follow)](https://twitter.com/kyletimmermans)
 
 # netutilmb
-Network Utility available in the Mac menu bar
+Network Utility available in the MacOS menu bar
 
 <br/>
 
