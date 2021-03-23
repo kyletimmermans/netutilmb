@@ -4,7 +4,8 @@
 ![Last Updated](https://img.shields.io/github/last-commit/kyletimmermans/netutilmb?color=success)
 [![kyletimmermans Twitter](http://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Follow)](https://twitter.com/kyletimmermans)
 
-# netutilmb
+
+# <div align="center">netutilmb</div>
 Network Utility available in the MacOS menu bar
 
 <br/>
